@@ -7,6 +7,13 @@
        
 * Name 5 things Javascript can do.
 
+```Javascript Can:```
+       * Change HTML Content
+       * Change HTML Attribute Values
+       * Change HTML Styles (CSS)
+       * Hide HTML Elements
+       * Show HTML Elements
+
 
 * When was ECMAScript first released ?
 
@@ -28,6 +35,7 @@
        * Game Development
        * Desktop App Development
        * Embedded Devices and IoT
+
 - Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category
 
 ```statically typed programming languages```
@@ -43,7 +51,7 @@
        This means that variables are checked against types only when the program is executing.
        Examples of programming languages are Python, JavaScript, Lisp, PHP, Ruby, Perl
               
-- Differentiate between the JavaScript data types ‘null’ and ‘undefined&nbsp'
+- Differentiate between the JavaScript data types ‘null’ and ‘undefined’
 
        undefined means a variable has been declared but has not yet been assigned a value 
        
