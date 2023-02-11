@@ -1,7 +1,13 @@
 ## Questions
 
 * What runs JavaScript outside the browser ?
+
+       Running JavaScript without/outside a browser means you are using node.js technology to execute your JavaScript code.
+       This type of usage of javascript typically refers to backend programming 
+       
 * Name 5 things Javascript can do.
+
+
 * When was ECMAScript first released ?
 
 
@@ -14,6 +20,14 @@
  
  
 - List the tech fields that use JavaScript, for example FrontEnd.
+
+       * FrontEnd
+       * BackEnd
+       * Mobile App Development
+       * AI
+       * Game Development
+       * Desktop App Development
+       * Embedded Devices and IoT
 - Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category
 
 ```statically typed programming languages```
