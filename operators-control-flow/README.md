@@ -5,11 +5,11 @@
             +	            Addition
             -	            Subtraction
             *	            Multiplication
-            **	            Exponentiation 
+            *           Exponentiation 
             /	            Division
             %	            Modulus 
-            ++	            Increment
-            --	            Decrement
+            ++	Increment
+            --	Decrement
 
 * Assignment Operators
 
@@ -27,17 +27,17 @@
             ===	            equal value and equal type
             !=	            not equal
             !==	            not equal value or not equal type
-            >	            greater than
-            <	            less than
+            >	                        greater than
+            <	                        less than
             >=	            greater than or equal to
             <=	            less than or equal to
-            ?	            ternary operator
+            ?	                        ternary operator
 
 * Logical Operators
 
             &&	            logical and
             ||	            logical or
-            !	            logical not
+            !	                        logical not
 
 * Bitwise Operators
 
@@ -45,9 +45,9 @@
             |	            OR	
             ~	            NOT	
             ^	            XOR	
-            <<	            left shift	
-            >>	            right shift	
-            >>>	unsigned right shift	
+            <<	  left shift	
+            >>	  right shift	
+            >>>	            unsigned right shift	
 
 ## For each JavaScript Operator, write 2 examples.
 * Arithmetic operations
