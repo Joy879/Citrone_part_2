@@ -8,11 +8,12 @@
 * Name 5 things Javascript can do.
 
 ```Javascript Can:```
-       * Change HTML Content
-       * Change HTML Attribute Values
-       * Change HTML Styles (CSS)
-       * Hide HTML Elements
-       * Show HTML Elements
+
+              * Change HTML Content
+              * Change HTML Attribute Values
+              * Change HTML Styles (CSS)
+              * Hide HTML Elements
+              * Show HTML Elements
 
 
 * When was ECMAScript first released ?
