@@ -5,11 +5,11 @@
             +	            Addition
             -	            Subtraction
             *	            Multiplication
-            *           Exponentiation 
+            *             Exponentiation 
             /	            Division
             %	            Modulus 
-            ++	Increment
-            --	Decrement
+            ++	   Increment
+            --	   Decrement
 
 * Assignment Operators
 
