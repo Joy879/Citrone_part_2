@@ -1,4 +1,4 @@
-## symbols for each of the below Javascript operators
+## Symbols for Javascript operators
 * Arithmetic Operators
 * Assignment Operators
 * Comparison Operators
