@@ -85,6 +85,8 @@
             Result is true
 
 * Logical operators
+
+
             let x = 6; 
             let y = 3;
 
@@ -97,6 +99,8 @@
             Result is false
 
 * Bitwise operators
+
+
             5 $ 1
 
             Result is 1
