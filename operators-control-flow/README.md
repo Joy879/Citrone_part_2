@@ -2,14 +2,14 @@
 
 * Arithmetic Operators
 
-            +	Addition
-            -	Subtraction
-            *	Multiplication
-            **	Exponentiation 
-            /	Division
-            %	Modulus 
-            ++	Increment
-            --	Decrement
+            +	            Addition
+            -	            Subtraction
+            *	            Multiplication
+            **	            Exponentiation 
+            /	            Division
+            %	            Modulus 
+            ++	            Increment
+            --	            Decrement
 
 * Assignment Operators
 
@@ -23,30 +23,30 @@
 
 * Comparison Operators
 
-            ==	equal to
-            ===	equal value and equal type
-            !=	not equal
-            !==	not equal value or not equal type
-            >	greater than
-            <	less than
-            >=	greater than or equal to
-            <=	less than or equal to
-            ?	ternary operator
+            ==	            equal to
+            ===	            equal value and equal type
+            !=	            not equal
+            !==	            not equal value or not equal type
+            >	            greater than
+            <	            less than
+            >=	            greater than or equal to
+            <=	            less than or equal to
+            ?	            ternary operator
 
 * Logical Operators
 
-            &&	logical and
-            ||	logical or
-            !	logical not
+            &&	            logical and
+            ||	            logical or
+            !	            logical not
 
 * Bitwise Operators
 
-            &	AND	
-            |	OR	
-            ~	NOT	
-            ^	XOR	
-            <<	left shift	
-            >>	right shift	
+            &	            AND	
+            |	            OR	
+            ~	            NOT	
+            ^	            XOR	
+            <<	            left shift	
+            >>	            right shift	
             >>>	unsigned right shift	
 
 ## For each JavaScript Operator, write 2 examples.
