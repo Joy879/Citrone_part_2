@@ -68,23 +68,23 @@ let x = (100 - 50) / a;
 let x = 10;
     x += 5;
 
-Result is x = 15
+//Result is x = 15
 
  let x = 10;
      x *= 5;
 
-Result is x=50
+//Result is x=50
 ```
 * Comparison operators
 ```js
 let x = 5;
 x == 10
 
-Result is false
+//Result is false
 
 x != 8
 
-Result is true
+//Result is true
 ```
 * Logical operators
 
@@ -94,22 +94,22 @@ let y = 3;
 
 (x == 5 || y == 5)
 
-Result is false
+//Result is false
 
 (x == 5 && y == 5)
 
-Result is false
+//Result is false
 ```
 * Bitwise operators
 
 ```js
 5 $ 1
 
-Result is 1
+//Result is 1
 
 5 | 1
 
-Result is 5
+//Result is 5
 ```
 ## Result of the following code:
 ```js
