@@ -64,54 +64,55 @@ let x = (100 - 50) / a;
 Result is x = 5
 ```
 * Assignment operators
+```js
+let x = 10;
+    x += 5;
 
-            let x = 10;
-                x += 5;
+Result is x = 15
 
-            Result is x = 15
+ let x = 10;
+     x *= 5;
 
-             let x = 10;
-                 x *= 5;
-
-            Result is x=50
-
+Result is x=50
+```
 * Comparison operators
+```js
+let x = 5;
+x == 10
 
-            let x = 5;
-            x == 10
+Result is false
 
-            Result is false
+x != 8
 
-            x != 8
-
-            Result is true
-
+Result is true
+```
 * Logical operators
 
+```js
+let x = 6; 
+let y = 3;
 
-            let x = 6; 
-            let y = 3;
+(x == 5 || y == 5)
 
-            (x == 5 || y == 5)
+Result is false
 
-            Result is false
+(x == 5 && y == 5)
 
-            (x == 5 && y == 5)
-
-            Result is false
-
+Result is false
+```
 * Bitwise operators
 
+```js
+5 $ 1
 
-            5 $ 1
+Result is 1
 
-            Result is 1
+5 | 1
 
-            5 | 1
-
-            Result is 5
+Result is 5
+```
 ## Result of the following code:
- ```
+```js
  for( let i=1; i< 20; i+=7) {
     console.log(i);
 }
