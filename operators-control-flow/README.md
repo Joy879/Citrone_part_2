@@ -52,16 +52,17 @@
 
 ## For each JavaScript Operator, write 2 examples.
 * Arithmetic operations
+```js
+let a = 3;
+let x = (100 + 50) * a;
 
-            let a = 3;
-            let x = (100 + 50) * a;
+Result is x = 450
 
-            Result is x = 450
+let a = 10;
+let x = (100 - 50) / a;
 
-            let a = 10;
-            let x = (100 - 50) / a;
-
-            Result is x = 5
+Result is x = 5
+```
 * Assignment operators
 
             let x = 10;
